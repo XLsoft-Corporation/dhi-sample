@@ -1,7 +1,7 @@
 {
-  "name": "node24-bookworm-slim-express-demo",
+  "name": "dhi-node24-express-demo",
   "version": "1.0.0",
-  "description": "Demo app on node:24-bookworm-slim to compare CVEs with DHI using Docker Scout.",
+  "description": "Demo app on dhi.io/node:24-debian12 to compare CVEs with DHI using Docker Scout.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
